@@ -1,5 +1,7 @@
 # EPL_2020-21 Python Project
 
+Data Source: Kaggle 
+
 This is a project I worked on in my spare time that combined two of my most favorite passions: data analytics and soccer. 
 Here, we will be using data from the 2020-2021 Premier League season. 
 
